@@ -23,3 +23,10 @@ The original can be found on the page https://rossmarks.uk/git/0xRM
  _____________________________________________________________________________________________________________
 
 This project uses the library for OLED display  https://github.com/olikraus/u8g2/
+
+______________________________________________________________________________________________________________
+Come to my channel, there will be a lot of interesting things. I'm just trying to develop it. 
+I need your support.
+Заходите на мой канал, там будет много интересного. Я только пытаюсь развивать его. 
+Мне нужна Ваша поддержка.
+https://www.youtube.com/channel/UCI5psEALwmuzSQJG0EZy7og?view_as=subscriber
