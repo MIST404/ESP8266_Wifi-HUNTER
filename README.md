@@ -18,15 +18,8 @@ You are responsible for the misuse of this project!
 не должны быть реальными! Вы несете ответственность за неправомерное использование данного проекта!
 
 _____________________________________________________________________________________________________________
-pin connection
-
-ESP         SD          OLED        BUZER
-       
- D5         SCK
- D6         MISO
- D7         MOSI
- TX         CS
- D8                                    +
- D2                      SDA
- D1                      SCK
+Special thanks To our colleague 0xRM, whose code was used as the basis for this project. 
+The original can be found on the page https://rossmarks.uk/git/0xRM
  _____________________________________________________________________________________________________________
+
+This project uses the library for OLED display  https://github.com/olikraus/u8g2/
