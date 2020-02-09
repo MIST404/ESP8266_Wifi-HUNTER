@@ -29,4 +29,5 @@ Come to my channel, there will be a lot of interesting things. I'm just trying t
 I need your support.
 Заходите на мой канал, там будет много интересного. Я только пытаюсь развивать его. 
 Мне нужна Ваша поддержка.
+
 https://www.youtube.com/channel/UCI5psEALwmuzSQJG0EZy7og?view_as=subscriber
